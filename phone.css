@@ -1,0 +1,176 @@
+.conatinerp-fluid {
+    display: inline-block;
+}
+
+
+
+.tamim {
+    margin-top: 220px;
+
+
+}
+
+@media screen and (min-width:760px) and (max-width:1080px) {
+    .tamim {
+        width: 400px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width:470px) {
+    .tamim {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:290px) {
+    .tamim {
+        width: 300px;
+    }
+}
+
+
+.containerp {
+    height: 800px;
+}
+
+@media screen and (max-width:780px) {
+    .containerp {
+        height: 1100px;
+    }
+}
+
+@media screen and (max-width:590px) {
+    .hash {
+        padding: 30px 30px;
+        margin: 20px 20px;
+    }
+
+    .containerp {
+        height: 1300px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .containerp {
+        height: 1500px;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .containerp {
+        height: 1700px;
+    }
+}
+
+@media screen and (max-width:390px) {
+    .containerp {
+        height: 1900px;
+    }
+}
+
+
+@media screen and (max-width:350px) {
+    .containerp {
+        height: 1700px;
+    }
+
+    .enjoy {
+        font-size: 25px;
+    }
+
+    .hash {
+        font-size: 20px;
+
+    }
+}
+
+@media screen and (max-width:290px) {
+    .containerp {
+        height: 1900px;
+    }
+}
+
+#laab {
+    display: flex;
+    flex-wrap: wrap;
+
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+#yu {
+
+    display: flex;
+    flex-wrap: wrap;
+
+
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+
+@media screen and (max-width:400px) {
+    .la {
+        font-size: 25px;
+    }
+
+    .juh {
+        width: 300px;
+    }
+}
+
+@media screen and (min-width:401px) and (max-width:500px) {
+    .la {
+        font-size: 25px;
+    }
+
+    .juh {
+        width: 450px;
+    }
+}
+
+@media screen and (min-width:770px) and (max-width:1000px) {
+
+    .abd {
+        margin: 0px 80px;
+    }
+}
+
+@media screen and (max-width:770px) {
+    .abd {
+        margin-top: 60px;
+        width: 350px;
+    }
+
+
+}
+
+@media screen and (max-width:1000px) {
+
+    #op {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width:770px) {
+
+    #uoi {
+        margin: 0px 40px;
+
+    }
+
+    #hyt {
+        margin: 0px 40px;
+    }
+
+    #ben {
+        margin: 0px 40px;
+    }
+
+}
